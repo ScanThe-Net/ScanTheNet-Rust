@@ -51,7 +51,7 @@ Usage with build
 Run it from the command line. Optionally, you can specify the maximum number of entries:
 
 ```
-cd target/debug
+cd ScanTheNet-Rust/ScanTheNet/target/debug
 ./ScanTheNet [maxEntries]
 ```
 
