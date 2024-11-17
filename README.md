@@ -51,9 +51,8 @@ Usage with build
 Run it from the command line. Optionally, you can specify the maximum number of entries:
 
 ```
-cd ScanTheNet-Rust
 cd target/debug
-./scanthenet [maxEntries]
+./ScanTheNet [maxEntries]
 ```
 
 Replace [maxEntries] with a number between 1 and 100. If not specified, the default value is 100.
